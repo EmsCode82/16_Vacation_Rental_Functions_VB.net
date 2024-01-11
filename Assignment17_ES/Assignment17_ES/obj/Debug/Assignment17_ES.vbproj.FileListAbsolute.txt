@@ -1,0 +1,24 @@
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.exe.config
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.exe
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.pdb
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.xml
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.Form1.resources
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.Resources.resources
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.exe
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.xml
+C:\Users\e5sco\Desktop\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.pdb
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.exe.config
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.exe
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.pdb
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\bin\Debug\Assignment17_ES.xml
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.Form1.resources
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.Resources.resources
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.exe
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.xml
+C:\Users\e5sco\Desktop\Git Pushes\Spring 23 IT\Week 13\Assignment17_ES\Assignment17_ES\obj\Debug\Assignment17_ES.pdb
